@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"4a6067a886254401","x":-400,"y":-220,"width":250,"height":60,"type":"text","text":"Block chain "},
+		{"id":"088dd1a5d0620e75","x":-40,"y":-215,"width":250,"height":50,"type":"text","text":"IoT"},
+		{"id":"7452912b13b0190a","x":-500,"y":-80,"width":400,"height":400,"type":"file","file":"__Papers/Shahizan 2020.pdf"},
+		{"id":"7643641300137f69","x":41,"y":-80,"width":398,"height":400,"type":"file","file":"__Media/Pasted image 20221202163803.png"},
+		{"id":"5a80a066f832e5b9","x":-460,"y":480,"width":260,"height":280,"type":"file","file":"Excalidraw/SLR github.md"},
+		{"id":"c57de2452ba2c78a","x":-69,"y":440,"width":619,"height":360,"type":"text","text":"<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/iCRy8voU5dE?si=2HQkKU7M_W17RcLD\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>"}
+	],
+	"edges":[
+		{"id":"2e7b0cf8e81002f6","fromNode":"4a6067a886254401","fromSide":"bottom","toNode":"7452912b13b0190a","toSide":"top"},
+		{"id":"eddcb8eac5c37d35","fromNode":"088dd1a5d0620e75","fromSide":"left","toNode":"4a6067a886254401","toSide":"right"},
+		{"id":"94a7240fa9029e2f","fromNode":"7452912b13b0190a","fromSide":"right","toNode":"7643641300137f69","toSide":"left"},
+		{"id":"be9e61195c567939","fromNode":"7643641300137f69","fromSide":"bottom","toNode":"c57de2452ba2c78a","toSide":"top"},
+		{"id":"37964d21fd8accee","fromNode":"c57de2452ba2c78a","fromSide":"left","toNode":"5a80a066f832e5b9","toSide":"right"}
+	]
+}
